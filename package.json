@@ -1,0 +1,11 @@
+{
+  "name": "pso",
+  "version": "1.0.0",
+  "description": "particle swarm optimization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tarik Gul",
+  "license": "ISC"
+}
