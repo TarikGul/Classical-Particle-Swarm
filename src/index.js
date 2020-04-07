@@ -3,6 +3,9 @@
 //Testing
 let baking;
 
+//testing 2
+let tarik;
+
 //Day 1 --
 // let hiking;
 
